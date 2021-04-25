@@ -1,0 +1,5 @@
+make sure python 3.9.4 is installed
+
+open cmd / terminal
+
+type:      pip install pyautogui
